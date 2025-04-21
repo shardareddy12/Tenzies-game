@@ -34,4 +34,4 @@ A fun dice game built with React where the goal is to roll until all dice are th
 ```bash
 git clone https://github.com/shardareddy12/tenzies-game.git
 cd tenzies-game
-![GameSS](image.png)
+![GameSS](./image.png)
