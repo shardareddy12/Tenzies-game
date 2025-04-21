@@ -27,7 +27,7 @@ A fun dice game built with React where the goal is to roll until all dice are th
 
 ---
 
-![Newgame](image-1.png)
+![Newgame](./image-1.png)
 ![GameSS](./image.png)
 
 ## 🧑‍💻 Run Locally
